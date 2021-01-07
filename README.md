@@ -9,4 +9,6 @@ I used (as the papers say) the LAB color space to estimate the A and B given L. 
 
 
 ## Results
+![](Figure_1.png)
 
+![](Figure_2.png)
