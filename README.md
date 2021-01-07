@@ -8,6 +8,9 @@ I used (as the papers say) the LAB color space to estimate the A and B given L. 
 
 ## Results
 
+It works nice with flower closeups, not really when they are in a context or anything else appears. But that was the idea. Here some validation images with predicted colors:
+
+
 ![](Figure_1.png)
 
 ![](Figure_6.png)
