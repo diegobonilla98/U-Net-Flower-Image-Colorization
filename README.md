@@ -5,10 +5,14 @@ I used the almighty UNet and the theory of [this paper](https://arxiv.org/pdf/16
 
 I used (as the papers say) the LAB color space to estimate the A and B given L. My approax was a classification task, I quantizated the number of AB possible inputs to 40 (Special thanks to [foamliu](https://github.com/foamliu/Colorful-Image-Colorization/blob/master/demo.py)).
 
-## My UNet
-
 
 ## Results
 ![](Figure_1.png)
 
 ![](Figure_2.png)
+
+
+## My UNet
+
+![](colorization_model.png)
+
