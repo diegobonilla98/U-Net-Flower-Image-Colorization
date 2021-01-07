@@ -9,9 +9,9 @@ I used (as the papers say) the LAB color space to estimate the A and B given L. 
 ## Results
 ![](Figure_1.png)
 
-![](Figure_3.png)
+![](Figure_6.png)
 
-![](Figure_5.png)
+![](Figure_7.png)
 
 
 ## My UNet
