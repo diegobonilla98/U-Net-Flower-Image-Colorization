@@ -11,7 +11,7 @@ I used (as the papers say) the LAB color space to estimate the A and B given L. 
 
 ![](Figure_3.png)
 
-![](Figure_4.png)
+![](Figure_5.png)
 
 
 ## My UNet
